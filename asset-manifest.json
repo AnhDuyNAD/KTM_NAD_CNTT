@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KTM_NAD_CNTT/static/css/main.a8f4a5d1.css",
+    "main.js": "/KTM_NAD_CNTT/static/js/main.bc9b9086.js",
+    "static/media/background-img.png": "/KTM_NAD_CNTT/static/media/background-img.1a46a92c0b5af450fa8c.png",
+    "static/media/banner.png": "/KTM_NAD_CNTT/static/media/banner.ba75fbfd173cfef7f123.png",
+    "static/media/da-guojing-6888603_1280.jpg": "/KTM_NAD_CNTT/static/media/da-guojing-6888603_1280.40852a593060d4594254.jpg",
+    "index.html": "/KTM_NAD_CNTT/index.html",
+    "main.a8f4a5d1.css.map": "/KTM_NAD_CNTT/static/css/main.a8f4a5d1.css.map",
+    "main.bc9b9086.js.map": "/KTM_NAD_CNTT/static/js/main.bc9b9086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f4a5d1.css",
+    "static/js/main.bc9b9086.js"
+  ]
+}
